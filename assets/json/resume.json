@@ -1,200 +1,132 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Jiaze Cai",
+    "label": "",
+    "email": "jiaze12@berkeley.edu",
+    "phone": "",
+    "url": "https://jiazecai.github.io",
+    "summary": "Reseach Assistant in Hybrid Robotics Group",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California, Berkeley",
+      "area": "Mechanical Engineering",
+      "studyType": "MEng",
+      "startDate": "2023-08",
+      "endDate": "2024-05",
+      "score": "3.96",
+      "courses": ["Control of Robotic and Autonomous Systems"],
+      "highlights": ["Concentration in Control of Robotic and Autonomous Systems"]
+    },
+    {
+      "institution": "Texas A&M University",
+      "area": "Aerospace Engineering",
+      "studyType": "BS",
+      "startDate": "2019-08",
+      "endDate": "2023-05",
+      "score": "3.85",
+      "highlights": ["Minor in Electrical Engineering"]
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "UC Berkeley, Hybrid Robotics Group",
+      "position": "Research Assistant",
+      "startDate": "2024-05",
+      "endDate": "Present",
+      "highlights": [
+        "Designed a high-DoF bird-scale flapping-wing robot",
+        "Developed simulation environments for learning-based control",
+        "Implemented learning-based control framework for agile trajectory tracking",
+        "Deployed control policy on physical flapping-wing robot"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "Texas A&M University AVFL",
+      "position": "Research Assistant",
+      "startDate": "2022-03",
+      "endDate": "2023-06",
+      "highlights": [
+        "Led project on Air-Launched Foldable Tail-Sitter design and testing",
+        "Implemented digital PID speed controller for hovering and vertical flight",
+        "Conducted horizontal flight design and stability analysis"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Scaled Next-Gen VTOL UAS",
+      "position": "Chief Engineer",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "highlights": [
+        "Led 20-person team in design and testing of VTOL Tail-Sitter",
+        "Led flight dynamics modeling sub-team",
+        "Implemented swashplate control for rotor system"
+      ]
+    },
+    {
+      "name": "Next-Gen VTOL UAS",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
+      "highlights": [
+        "Led flight dynamics modeling sub-team",
+        "Developed control laws for transition flights",
+        "Developed 2D nonlinear longitudinal dynamic simulation"
+      ]
+    },
+    {
+      "name": "TAMU SAE AERO Design",
+      "startDate": "2021-05",
+      "endDate": "2022-05",
+      "highlights": [
+        "Won 1st Place Overall & Mission Performance",
+        "Incorporated Pixhawk flight controller for flight test data",
+        "Designed winglet and fairing with CFD analysis"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software",
+      "keywords": [
+        "SolidWorks",
+        "STAR CCM+",
+        "XFLR5",
+        "MATLAB",
+        "LabVIEW",
+        "Python",
+        "C++",
+        "C",
+        "Java",
+        "Arduino",
+        "Raspberry Pi"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots",
+      "publisher": "arXiv",
+      "releaseDate": "2024-11-24",
+      "url": "https://arxiv.org/abs/2411.15130"
+    },
+    {
+      "name": "Development of a tube-launched tail-sitter unmanned aerial vehicle",
+      "publisher": "SAGE Journals",
+      "releaseDate": "2024-05-09",
+      "url": "https://journals.sagepub.com/doi/10.1177/17568293241254045"
+    },
+    {
+      "name": "A Fully Mechanical Realization of PID Controller",
+      "publisher": "HSET",
+      "releaseDate": "2022-09-30",
+      "url": "https://drpress.org/ojs/index.php/HSET/article/view/1861"
     }
   ]
 }
